@@ -1,0 +1,47 @@
+LOOP SYNTAX:-
+
+
+1. for loop :-
+
+for varname in list
+do
+  echo "statement"
+done
+
+
+2. while loop :-
+
+while [condition]
+do
+   commands
+done
+
+
+3. Until loop :-
+
+until [condition]
+do
+ commands
+done
+
+4. If then else :- 
+
+if [condition]
+then
+echo "statement"
+else
+echo "statement"
+
+
+5. if then elif :-
+
+
+if [condition 1]
+then
+     echo "statement"
+elif [condition 2]
+then
+     echo "statement"
+else
+     echo "statement"
+fi
